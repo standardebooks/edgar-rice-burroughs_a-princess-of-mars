@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 590">
-	<text line-height="100%" style="letter-spacing:0;word-spacing:0;font-size:93.57;font-family:Sans" x="131.06" y="128.6">
-		<tspan style="letter-spacing:5;font-family:League Spartan;font-weight:bold" x="131.06" y="128.6">A PRINCESS OF MARS</tspan>
-	</text>
-	<text line-height="100%" style="letter-spacing:0;word-spacing:0;font-size:70.18;font-family:Sans;font-weight:normal" x="187.22" y="288.95">
-		<tspan style="letter-spacing:5;font-family:League Spartan;font-weight:bold" x="187.22" y="288.95">EDGAR RICE BURROUGHS</tspan>
-	</text>
-	<text line-height="100%" style="letter-spacing:0;word-spacing:0;font-size:46.784;font-family:Sans;font-weight:normal" x="353.69" y="539.3">
-		<tspan style="letter-spacing:5;font-family:League Spartan;font-weight:bold" x="353.69" y="539.3">FRANK E. SCHOONOVER</tspan>
-	</text>
-	<text line-height="100%" style="letter-spacing:0;word-spacing:0;font-size:42.508;font-family:Sans;font-weight:normal" x="593.53" y="472.18">
-		<tspan style="font-family:OFL Sorts Mill Goudy;font-weight:500;font-style:italic" x="593.53" y="472.18">illustrated by</tspan>
-	</text>
+	<text style="fill:#000;font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="130">A PRINCESS OF MARS</text>
+	<text style="fill:#000;font-family:League Spartan;font-size:70.17543793px;letter-spacing:5px" text-anchor="middle" x="700" y="290">EDGAR RICE BURROUGHS</text>
+	<text style="fill:#000;font-family:OFL Sorts Mill Goudy;font-size:42.5079689px;font-style:italic" text-anchor="middle" x="700" y="470">illustrated by</text>
+	<text style="fill:#000;font-family:League Spartan;font-size:46.78362656px;letter-spacing:5px" text-anchor="middle" x="700" y="540">FRANK E. SCHOONOVER</text>
 </svg>
