@@ -43,12 +43,12 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_a-princess-of-mars_frank-e-schoonover</meta>
 		<dc:creator id="author">Edgar Rice Burroughs</dc:creator>
 		<meta property="file-as" refines="#author">Rice Burroughs, Edgar</meta>
-		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Frank E. Schoonover</dc:contributor>
 		<meta property="file-as" refines="#artist">Schoonover, Frank E.</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Frank Earle Schoonover</meta>
-		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Frank_Schoonover</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Frank_Schoonover</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">ill</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">The Online Distributed Proofreading Team</dc:contributor>
