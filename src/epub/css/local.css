@@ -45,3 +45,7 @@ figcaption{
 	font-style: italic;
 	font-size: .75em;
 }
+
+abbr.name{
+	white-space: nowrap;
+}
