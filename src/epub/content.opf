@@ -26,26 +26,28 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">A Princess of Mars</dc:title>
 		<meta property="file-as" refines="#title">Princess of Mars, A</meta>
 		<dc:subject id="subject-1">Carter, John (Fictitious character)--Fiction</dc:subject>
 		<dc:subject id="subject-2">Dejah Thoris (Fictitious character)--Fiction</dc:subject>
 		<dc:subject id="subject-3">Princesses--Fiction</dc:subject>
 		<dc:subject id="subject-4">Mars (Planet)--Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://lccn.loc.gov/2006275659</meta>
-		<meta property="meta-auth" refines="#subject-2">http://lccn.loc.gov/2006275659</meta>
-		<meta property="meta-auth" refines="#subject-3">http://lccn.loc.gov/2006275659</meta>
-		<meta property="meta-auth" refines="#subject-4">http://lccn.loc.gov/2006275659</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008109301</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008115817</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">An adventurer finds himself battling alien civilizations on the strange surface of Mars.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In &lt;i&gt;A Princess of Mars&lt;/i&gt;, John Carter is transported to a Mars inhabited by strange civilizations and embarks on various adventures on his quest home. Often held up as a seminal example of pulp science fiction, &lt;i&gt;A Princess of Mars&lt;/i&gt; is the first entry in Burroughs’ epic &lt;i&gt;Barsoom&lt;/i&gt; series. and the first to feature the character of John Carter.&lt;/p&gt;
 			&lt;p&gt;Though often categorized as just a pulp adventure tale, &lt;i&gt;A Princess of Mars&lt;/i&gt; was hugely influential on many budding science fiction writers, professional scientists, and explorers of the day. The novel remains a light, fast-paced, and enjoyable read, and continues to inspire adaptations nearly a hundred years after its publication.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/62</dc:source>
 		<dc:source>https://archive.org/details/princessofmars00burriala</dc:source>
