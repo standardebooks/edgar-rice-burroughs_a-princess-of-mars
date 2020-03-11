@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1400 2100">
-	<title>The cover for the Standard Ebooks edition of A Princess of Mars, by Edgar Rice Burroughs. Illustrated by Frank E. Schoonover</title>
+	<title>The cover for the Standard Ebooks edition of A Princess of Mars, by Edgar Rice Burroughs</title>
 	<style type="text/css">
 		.title-box{
 			fill-opacity: .75;
@@ -23,6 +23,7 @@
 	</style>
 	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
 	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z"/>
-	<text class="title" x="700" y="1825">A PRINCESS OF MARS</text>
-	<text class="author" x="700" y="1925">EDGAR RICE BURROUGHS</text>
+	<text class="title" x="700" y="1775">A</text>
+	<text class="title" x="700" y="1875">PRINCESS OF MARS</text>
+	<text class="author" x="700" y="1975">EDGAR RICE BURROUGHS</text>
 </svg>

@@ -24,28 +24,3 @@ span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
-
-figure.full-page{
-	margin: 0;
-	max-height: 100%;
-	page-break-before: always;
-	page-break-after: always;
-	page-break-inside: avoid;
-	text-align: center;
-}
-
-figure img{
-	display: block;
-	margin: auto;
-	max-width: 100%;
-}
-
-figure + p{
-	text-indent: 0;
-}
-
-figcaption{
-	font-size: .75em;
-	font-style: italic;
-	margin: 1em;
-}
