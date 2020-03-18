@@ -3,7 +3,7 @@
 	<title>The titlepage for the Standard Ebooks edition of A Princess of Mars, by Edgar Rice Burroughs</title>
 	<style type="text/css">
 		text{
-			font-family: League Spartan;
+			font-family: "League Spartan";
 			letter-spacing: 5px;
 			text-anchor: middle;
 		}
