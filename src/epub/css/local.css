@@ -19,8 +19,3 @@ section[epub|type~="dedication"] p{
 section[epub|type~="foreword"] h2 + p{
 	font-style: italic;
 }
-
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
