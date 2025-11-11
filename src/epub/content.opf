@@ -63,6 +63,7 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80039681</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="artist">Frank E. Schoonover</dc:contributor>
 		<meta property="file-as" refines="#artist">Schoonover, Frank E.</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Frank Earle Schoonover</meta>
